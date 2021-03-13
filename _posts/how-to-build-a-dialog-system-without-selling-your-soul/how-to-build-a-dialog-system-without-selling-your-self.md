@@ -1,10 +1,10 @@
 ---
 layout: post
-title: "How to build a dialog system without selling your soul"s
-date: 2020-08-29 09:29:20 +0700
-description: A tutorial to teach how to build a dialog system.
+title: How to build a dialog system without selling your soul
+date: 2020-01-29 01:00 +0700
+description: tutorial on how to build a dialog system.
 tag:
-  - tutorials
+  - tutorial
   - godot
 ---
 
