@@ -1,14 +1,16 @@
 ---
 title: About
-permalink: /about/
+permalink: /now/
 layout: page
-excerpt:
-  I am passionate game developer and I am specialized in Godot and Python.
-  This site is my collection of notes and design ideas that i have learned.
+excerpt: This is the collection of my on going projects that I'm working on.
+  These are from concepts to complete games.
 comments: false
 ---
 
-He's a student from India, living in Jharkhand. the blog for documentation about his programming 🎒 journey, he loves game development and art,.
+This is the collection of my on going projects that I'm working on.
+These are from concepts to complete games.
+
+Currently I'm working on a simple slice of life game.
 
 If you have a question about him or else, just send a letter to him or you can discuss it [here](https://github.com/mayank-prasoon/mayank-prasoon.github.io/discussions).
 
