@@ -10,7 +10,23 @@ comments: false
 This is the collection of my on going projects that I'm working on.
 These are from concepts to complete games.
 
-Currently I'm working on a simple slice of life game.
+<hr>
+
+| name                       | state | beta uvailable |
+| -------------------------- | ----- | -------------- |
+| project lake               | 🔸    | - []           |
+| poker game                 | 🌲    | - []           |
+| lodo game                  | 🌲    | - []           |
+| python based dialog system | 🌲    | - []           |
+
+<br>
+
+- 🔹 too ambitious to work on
+- 🔸 stall
+- 🌲 work in progress
+- ⭐ completed
+
+<hr>
 
 If you have a question about him or else, just send a letter to him or you can discuss it [here](https://github.com/mayank-prasoon/mayank-prasoon.github.io/discussions).
 
