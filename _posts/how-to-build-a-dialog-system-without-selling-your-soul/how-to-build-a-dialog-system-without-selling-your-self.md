@@ -17,14 +17,27 @@ So I thought why not share this with the community.
 
 ### Content
 
-1. [why build a dialog system](#1)
-   1. [why you should](#1a)
-   2. [why you shouldn't](#1b)
-2. [what is dialog system](#2)
-3. [how to build a dialog]
-4. [snippets]
-5. [examples]
-6. [reference]
+- [First you should ask yourself why you should invest time in a good dialog system](#first-you-should-ask-yourself-why-you-should-invest-time-in-a-good-dialog-system)
+  - [👍 Why you should?](#-why-you-should)
+  - [👎 Why you shouldn’t?](#-why-you-shouldnt)
+- [Well there is another important thing understanding what is a dialog system?](#well-there-is-another-important-thing-understanding-what-is-a-dialog-system)
+  - [I think a good example of this is Witcher 3: (watch gamepaly)](#i-think-a-good-example-of-this-is-witcher-3-watch-gamepaly)
+- [Now that we have dealt with why and what we should talk how we are going to make it?](#now-that-we-have-dealt-with-why-and-what-we-should-talk-how-we-are-going-to-make-it)
+  - [🎊 Now the fun part.🎊](#-now-the-fun-part)
+    - [Waterfall type](#waterfall-type)
+    - [Hub Type](#hub-type)
+    - [Hybrid ⭐ (my preferred one)](#hybrid--my-preferred-one)
+    - [Parser-Driven](#parser-driven)
+    - [Other key components of a good dialog system:](#other-key-components-of-a-good-dialog-system)
+  - [Building your own tool?](#building-your-own-tool)
+    - [Why I am using JSON file why not “If statements”?](#why-i-am-using-json-file-why-not-if-statements)
+    - [Like the dialog node has](#like-the-dialog-node-has)
+- [Snippets](#snippets)
+  - [load character:](#load-character)
+  - [load dialogs:](#load-dialogs)
+  - [load choices:](#load-choices)
+  - [show choices:](#show-choices)
+  - [Flowmap](#flowmap)
 
 [some stuff can be wrong as there is no definite answer to all these but I will try to link stuff]
 
@@ -152,7 +165,7 @@ I don’t know any good example may be the [fallout 3](https://www.youtube.com/w
 
 The game has a lot more stuff like karma system and environmental story telling.
 
-#### 🌟 Hybrid (my preferred one)
+#### Hybrid ⭐ (my preferred one)
 
 it is combination of both **Hub type** and **Waterfall type**. Like in the **Witcher 3** the 🟨 **yellow dialogs** are **Waterfall** type whereas the ⬜ **white one** was **Hub type**.
 
@@ -179,7 +192,7 @@ So basically it takes the written input of the player and translate it into comp
 - NPC to NPC relation and Player to NPC relation 🧑‍🤝‍🧑
 - And may more
 
-### building your own tool?
+### Building your own tool?
 
 There is no best way to code a dialog system just like a climbing system you can come up with your own idea better than mine. Again these are just ideas.
 
@@ -316,6 +329,7 @@ func show_choices():
 		$Option.visible = true
 		$"Option/VBoxContainer/Button".grab_focus()
 ```
+### Flowmap
 
 This just a flow map of how stuff works if it doesn’t make any sense it is okay, as it doesn’t have. I think you have a good understanding of how the thing works and you can build your own tools and make a good dialog system.
 
