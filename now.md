@@ -14,10 +14,10 @@ These are from concepts to complete games.
 
 | name                       | state | beta uvailable |
 | -------------------------- | ----- | -------------- |
-| project lake               | 🔸    | - []           |
-| poker game                 | 🌲    | - []           |
-| lodo game                  | 🌲    | - []           |
-| python based dialog system | 🌲    | - []           |
+| project lake               | 🔸    | non            |
+| poker game                 | 🌲    | non            |
+| lodo game                  | 🌲    | non            |
+| python based dialog system | 🌲    | non            |
 
 <br>
 
