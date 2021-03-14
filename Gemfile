@@ -24,6 +24,7 @@ group :jekyll_plugins do
   gem 'jekyll-postfiles', '~> 3.1'
   gem 'tzinfo', '~> 2.0.4'
   gem 'tzinfo-data', '~> 1.2021.1'
+  gem 'jekyll-admin', '~> 0.11.0'
 end
 
 # Windows does not include zoneinfo files, so bundle the tzinfo-data gem

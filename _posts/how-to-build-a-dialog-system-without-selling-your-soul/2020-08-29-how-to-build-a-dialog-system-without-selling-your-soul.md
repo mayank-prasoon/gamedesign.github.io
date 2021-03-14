@@ -1,11 +1,12 @@
 ---
-layout: post
 title: How to build a dialog system without selling your soul
+layout: post
 date: 2020-01-29 01:00 +0700
 description: tutorial on how to build a dialog system.
 tag:
-  - tutorial
-  - godot
+- tutorial
+- godot
+comments: true
 ---
 
 #### A bit of background
@@ -82,7 +83,7 @@ A good dialog system contains these components: (btw I come up with few of the n
 
 1. 🕵️ **_Observer_** : Something that tracks the actions, choices and possessions of player (long term memory )like a hybrid “Save” system.
 
-basically has to store importation about player actions. it can be as minute as a number of times a key pressed to a massive action like deletion of file or completion of quest.
+basically it has to store importation about player actions. it can be as minute as a number of times a key pressed to a massive action like deletion of file or completion of quest.
 
 2. 🔥 **_Reaction system (soft-core [“nemesis system”](https://www.youtube.com/watch?v=Lm_AzK27mZY))_**: something that generates a opinion (feeling or emotions or sets of dialog) from player’s past actions, choices and possessions
 
