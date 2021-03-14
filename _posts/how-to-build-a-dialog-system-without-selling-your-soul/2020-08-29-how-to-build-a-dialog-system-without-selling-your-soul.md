@@ -215,7 +215,7 @@ So basically it takes the written input of the player and translate it into comp
 
 There is no best way to code a dialog system just like a climbing system you can come up with your own idea better than mine. Again these are just ideas.
 
-if you are building a really massive game then it is not a bad idea to learn C++/gd native and build your game using SQLite. A lot of indie studios develop their own tool from scratch. I think the studio that made ["Night in the Woods"](https://secretlab.games/blog/2017/11/14/how-night-in-the-woods-uses-yarn-spinner) develop their own tools to handle dialogs caller [Yarn Spinner](https://github.com/YarnSpinnerTool/YarnSpinner)
+if you are building a really massive game then it is not a bad idea to learn C++/gd native and build your game using SQLite. A lot of indie studios develop their own tool from scratch. I think the studio that made ["Night in the Woods"](https://secretlab.games/blog/2017/11/14/how-night-in-the-woods-uses-yarn-spinner) develop their own tools to handle dialogs called [Yarn Spinner](https://github.com/YarnSpinnerTool/YarnSpinner)
 
 [![night in the woods](https://www.theyoungfolks.com/wp-content/uploads/2017/02/Night-in-the-Woods_20170222222009.jpg)](http://www.nightinthewoods.com/)
 <figcaption>Fig 8. Night in the Woods</figcaption>
