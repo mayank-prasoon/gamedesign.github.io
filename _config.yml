@@ -22,7 +22,7 @@ author:
   avatar: /assets/img/profile.jpg # change with your own avatar
 
 # URL settings
-url: "https://mayank-prasoon.github.io #
+url: "https://mayank-prasoon.github.io" #
 baseurl: /mayank-prasoon.github.io/
 permalink: /:title/
 google_analytics: # leave it blank if not wish
