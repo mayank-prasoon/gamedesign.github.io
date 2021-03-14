@@ -25,7 +25,7 @@ So I thought why not share this with the community.
 	- [👍 Why you should?](#-why-you-should)
 	- [👎 Why you shouldn’t?](#-why-you-shouldnt)
 - [Well there is another important thing understanding what is a dialog system?](#well-there-is-another-important-thing-understanding-what-is-a-dialog-system)
-	- [I think a good example of this is Witcher 3: (watch gamepaly){:title="Youtube"}{:target="_blank"}](#i-think-a-good-example-of-this-is-witcher-3-watch-gamepalytitleyoutubetarget_blank)
+	- [I think a good example of this is Witcher 3:](#i-think-a-good-example-of-this-is-witcher-3)
 - [Now that we have dealt with why and what we should talk how we are going to make it?](#now-that-we-have-dealt-with-why-and-what-we-should-talk-how-we-are-going-to-make-it)
 	- [🎊 Now the fun part.🎊](#-now-the-fun-part)
 		- [Waterfall type](#waterfall-type)
@@ -104,7 +104,8 @@ ts is extremely difficult to pull off something like this specially when the dia
 
 I will show my solution to this
 
-### I think a good example of this is Witcher 3: [(watch gamepaly)](https://www.youtube.com/watch?v=GrEX4_UVb8A){:title="Youtube"}{:target="_blank"}
+### I think a good example of this is Witcher 3:
+[(watch gamepaly)](https://www.youtube.com/watch?v=GrEX4_UVb8A){:title="Youtube"}{:target="_blank"}
 
 <br>
 
@@ -150,7 +151,7 @@ The thing is this game's **narrative is linear**, not the **dialog system**. Pat
 
 **another example is**: **Going from your home to your school**. even though the destination and the beginning are same but you can take multiple path to the school you can first visit a shop ot take a bus or a train. The path will be different in each case.
 
-**Another great example is** [**Detroit Become Human**](https://www.youtube.com/watch?v=m51FsEHBlwA&list=PLLBQLDFWnxtVJfjq6wrG04h0gJEguLDy2){:title="Youtube"}{:target="_blank"}.
+**Another great example is** [Detroit Become Human](https://www.youtube.com/watch?v=m51FsEHBlwA&list=PLLBQLDFWnxtVJfjq6wrG04h0gJEguLDy2){:title="Youtube"}{:target="_blank"}.
 
 [![Detroit Become Human](https://i.imgur.com/ULr4HNH.jpg)](https://www.youtube.com/watch?v=m51FsEHBlwA&list=PLLBQLDFWnxtVJfjq6wrG04h0gJEguLDy2){:title="Youtube"}{:target="_blank"}
 <figcaption>Fig 4. kara from Detroit become Human</figcaption>
@@ -174,9 +175,9 @@ It is a hub based system basically when you interact with an NPC a bunch of opti
 
 I don’t know any good example may be the [fallout 3](https://www.youtube.com/watch?v=MqR8tmHmY48){:title="Youtube"}{:target="_blank"}?
 
-[![fallout 3](https://i.imgur.com/647GZkQ.jpg)](https://www.youtube.com/watch?v=MqR8tmHmY48){:title="Youtube"}{:target="_blank"}
+[![fallout 3](https://i.imgur.com/647GZkQ.jpg)](https://www.youtube.com/watch?v=MqR8tmHmY48)
+{:title="Youtube"}{:target="_blank"}
 <figcaption>Fig 5. Moria Brown from Fallout 3</figcaption>
-
 <br>
 
 The game has a lot more stuff like karma system and environmental story telling.
