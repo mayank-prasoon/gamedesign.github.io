@@ -104,18 +104,19 @@ I will show my solution to this
 
 ### I think a good example of this is Witcher 3: [(watch gamepaly)](https://www.youtube.com/watch?v=GrEX4_UVb8A)
 
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/GrEX4_UVb8A" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 <br>
 
 <figure>
-<img src="https://mayank-prasoon.github.io/blob/master/assets/blog1/2e3c83261ce4a7fe7950d53443f954eb.jpg" alt="Witcher 3: The Whispering Hillock">
+<img src="https://i.imgur.com/a6AtL8E.jpg" alt="Witcher 3: The Whispering Hillock">
 <figcaption>Fig 1. Witcher 3: The Whispering Hillock</figcaption>
 </figure>
-
 <br>
 
 In early game in the Ladies of the Wood quest line if you choose to kill the free the spirit in the [Quest: The Whispering Hillock](https://witcher.fandom.com/wiki/The_Whispering_Hillock) when Geralt return to the ladies of the wood he will find that the orphans have been eaten by the crones then a cut scene plays if you release the spirit the player the crone would not have killed the orphans but Anna will be turned into a water hag or something
 
-![working of the different components of the dialog system](cycle.png "right click and open it in new tab")
+![working of the different components of the dialog system](https://i.imgur.com/aqVuHRu.png "right click and open it in new tab")
 <div style="text-align: center"> Simple diagram to show the working </div>
 
 ## Now that we have dealt with why and what we should talk how we are going to make it?
@@ -138,7 +139,7 @@ it is the simplest of the branching system you go through a path and based on wh
 
 *Best example is [walking dead](https://www.youtube.com/watch?v=Tilvxc1LPrM&list=PLYH8WvNV1YEnMqMEIZV4F7NLC9C-J5-Si);*
 
-[![walking dead](unnamed.jpg)](https://www.youtube.com/watch?v=Tilvxc1LPrM&list=PLYH8WvNV1YEnMqMEIZV4F7NLC9C-J5-Si)
+[![walking dead](https://i.imgur.com/zpsEJnP.jpg)](https://www.youtube.com/watch?v=Tilvxc1LPrM&list=PLYH8WvNV1YEnMqMEIZV4F7NLC9C-J5-Si)
 
 i think almost every own knows that your choices in the game doesn't matter. So this should be a really bad example yet i put it as a best example.
 
@@ -150,7 +151,7 @@ The thing is this game's **narrative is linear**, not the **dialog system**. Pat
 
 **Another great example is** [**Detroit Become Human**](https://www.youtube.com/watch?v=m51FsEHBlwA&list=PLLBQLDFWnxtVJfjq6wrG04h0gJEguLDy2).
 
-[![Detroit Become Human](detroit-become-human-screen-01-ps4-us-13apr18.jpg)](https://www.youtube.com/watch?v=m51FsEHBlwA&list=PLLBQLDFWnxtVJfjq6wrG04h0gJEguLDy2)
+[![Detroit Become Human](https://i.imgur.com/ULr4HNH.jpg)](https://www.youtube.com/watch?v=m51FsEHBlwA&list=PLLBQLDFWnxtVJfjq6wrG04h0gJEguLDy2)
 
 *(you might feel a bit conflicted as how am I comparing these two game as they are so different, Just bare with me by end of this you will have a really good picture of what i'm trying to say)*
 
@@ -169,7 +170,7 @@ It is a hub based system basically when you interact with an NPC a bunch of opti
 
 I don’t know any good example may be the [fallout 3](https://www.youtube.com/watch?v=MqR8tmHmY48)?
 
-[![fallout 3](Fallout_3_(PC)_28.jpg)](https://www.youtube.com/watch?v=MqR8tmHmY48)
+[![fallout 3](https://i.imgur.com/647GZkQ.jpg)](https://www.youtube.com/watch?v=MqR8tmHmY48)
 
 The game has a lot more stuff like karma system and environmental story telling.
 
@@ -179,7 +180,7 @@ it is combination of both **Hub type** and **Waterfall type**. Like in the **Wit
 
 - This is best for open world design
 
-![Witcher 3](6315201.jpg)
+![Witcher 3](https://i.imgur.com/gglCMbe.jpg)
 
 #### Parser-Driven
 
@@ -189,7 +190,7 @@ So basically it takes the written input of the player and translate it into comp
 
 **Example**: [Event [0]](https://www.youtube.com/watch?v=bCJw4hQkPj4) is kind an example *I haven’t played the game so ya..??*
 
-[![event [0]](event-zero-870x489.jpg)](https://www.youtube.com/watch?v=bCJw4hQkPj4)
+[![event [0]]([event-zero-870x489.jpg](https://i.imgur.com/ecERFvZ.jpg))](https://www.youtube.com/watch?v=bCJw4hQkPj4)
 
 #### Other key components of a good dialog system:
 
@@ -205,6 +206,8 @@ So basically it takes the written input of the player and translate it into comp
 There is no best way to code a dialog system just like a climbing system you can come up with your own idea better than mine. Again these are just ideas.
 
 if you are building a really massive game then it is not a bad idea to learn C++/gd native and build your game using SQLite. A lot of indie studios develop their own tool from scratch. I think the studio that made ["Night in the Woods"](https://secretlab.games/blog/2017/11/14/how-night-in-the-woods-uses-yarn-spinner) develop their own tools to handle dialogs caller [Yarn Spinner](https://github.com/YarnSpinnerTool/YarnSpinner)
+
+[![night in the woods](https://www.theyoungfolks.com/wp-content/uploads/2017/02/Night-in-the-Woods_20170222222009.jpg)](http://www.nightinthewoods.com/)
 
 #### Why I am using JSON file why not “If statements”?
 
