@@ -12,12 +12,12 @@ These are from concepts to complete games.
 
 <hr>
 
-| name                       | state | beta uvailable |
-| -------------------------- | ----- | -------------- |
-| project lake               | 🔸    | non            |
-| poker game                 | 🌲    | non            |
-| lodo game                  | 🌲    | non            |
-| python based dialog system | 🌲    | non            |
+| name                       | state | release | beta available | alfa available |
+|----------------------------|-------|---------|----------------|----------------|
+| project lake               | 🔸    | non     | non            | non            |
+| poker game                 | 🌲    | non     | non            | non            |
+| Lodo game                  | 🌲    | non     | non            | non            |
+| python based dialog system | 🌲    | non     | non            | non            |
 
 <br>
 
