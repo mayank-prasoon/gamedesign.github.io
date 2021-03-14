@@ -107,7 +107,7 @@ I will show my solution to this
 <br>
 
 <figure>
-<img src="https://github.com/mayank-prasoon/mayank-prasoon.github.io/blob/master/assets/blog1/2e3c83261ce4a7fe7950d53443f954eb.jpg" alt="Witcher 3: The Whispering Hillock">
+<img src="https://mayank-prasoon.github.io/blob/master/assets/blog1/2e3c83261ce4a7fe7950d53443f954eb.jpg" alt="Witcher 3: The Whispering Hillock">
 <figcaption>Fig 1. Witcher 3: The Whispering Hillock</figcaption>
 </figure>
 
