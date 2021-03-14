@@ -9,7 +9,6 @@ source "https://rubygems.org"
 # This will help ensure the proper Jekyll version is running.
 # Happy Jekylling!
 gem "jekyll", "~> 4.1.0"
-gem "jekyll"
 
 # This is the default theme for new Jekyll sites. You may change this to anything you like.
 
@@ -23,6 +22,8 @@ group :jekyll_plugins do
   gem 'jekyll-sitemap', '~> 1.4'
   gem 'jekyll-compose', '~> 0.12.0'
   gem 'jekyll-postfiles', '~> 3.1'
+  gem 'tzinfo', '~> 2.0.4'
+  gem 'tzinfo-data', '~> 1.2021.1'
 end
 
 # Windows does not include zoneinfo files, so bundle the tzinfo-data gem
