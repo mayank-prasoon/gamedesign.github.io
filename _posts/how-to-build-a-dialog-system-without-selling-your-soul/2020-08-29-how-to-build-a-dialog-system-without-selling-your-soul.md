@@ -25,7 +25,11 @@ So I thought why not share this with the community.
 	- [👍 Why you should?](#-why-you-should)
 	- [👎 Why you shouldn’t?](#-why-you-shouldnt)
 - [Well there is another important thing understanding what is a dialog system?](#well-there-is-another-important-thing-understanding-what-is-a-dialog-system)
+<<<<<<< HEAD
 	- [I think a good example of this is Witcher 3:](#i-think-a-good-example-of-this-is-witcher-3)
+=======
+	- [I think a good example of this is Witcher 3: (watch gamepaly)](#i-think-a-good-example-of-this-is-witcher-3-watch-gamepalytitleyoutubetarget_blank)
+>>>>>>> 38af1286486ec6bf900a6554d73f537596237246
 - [Now that we have dealt with why and what we should talk how we are going to make it?](#now-that-we-have-dealt-with-why-and-what-we-should-talk-how-we-are-going-to-make-it)
 	- [🎊 Now the fun part.🎊](#-now-the-fun-part)
 		- [Waterfall type](#waterfall-type)
