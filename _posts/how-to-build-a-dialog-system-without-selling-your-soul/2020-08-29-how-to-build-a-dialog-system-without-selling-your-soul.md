@@ -41,6 +41,7 @@ So I thought why not share this with the community.
 	- [load choices:](#load-choices)
 	- [show choices:](#show-choices)
 	- [Flowmap](#flowmap)
+		- [Reference and reading material:](#reference-and-reading-material)
 
 [some stuff can be wrong as there is no definite answer to all these but I will try to link stuff]
 
@@ -106,21 +107,14 @@ I will show my solution to this
 
 <br>
 
-<figure>
-
 [![Witcher 3: The Whispering Hillock](https://i.imgur.com/a6AtL8E.jpg)](https://www.youtube.com/watch?v=GrEX4_UVb8A)
-
 <figcaption>Fig 1. Witcher 3: The Whispering Hillock</figcaption>
-</figure>
 <br>
 
 In early game in the Ladies of the Wood quest line if you choose to kill the free the spirit in the [Quest: The Whispering Hillock](https://witcher.fandom.com/wiki/The_Whispering_Hillock) when Geralt return to the ladies of the wood he will find that the orphans have been eaten by the crones then a cut scene plays if you release the spirit the player the crone would not have killed the orphans but Anna will be turned into a water hag or something
-<figure>
 
 ![working of the different components of the dialog system](https://i.imgur.com/aqVuHRu.png "right click and open it in new tab")
-
 <figcaption>Fig 2. working of the different components of the dialog system</figcaption>
-</figure>
 <br>
 
 ## Now that we have dealt with why and what we should talk how we are going to make it?
@@ -142,14 +136,12 @@ it is the simplest of the branching system you go through a path and based on wh
 - It is best suited for a linear game.
 
 *Best example is [Walking Dead](https://www.youtube.com/watch?v=Tilvxc1LPrM&list=PLYH8WvNV1YEnMqMEIZV4F7NLC9C-J5-Si);*
-<figure>
 
 [![walking dead](https://i.imgur.com/zpsEJnP.jpg)](https://www.youtube.com/watch?v=Tilvxc1LPrM&list=PLYH8WvNV1YEnMqMEIZV4F7NLC9C-J5-Si)
-
 <figcaption>Fig 3. Walking Dead: Season 2</figcaption>
-</figure>
+<br>
 
-i think almost every own knows that your choices in the game doesn't matter. So this should be a really bad example yet i put it as a best example.
+I think almost every own knows that your choices in the game doesn't matter. So this should be a really bad example yet i put it as a best example.
 
 *Before you pull out your pitch forks let me clarify my point.*
 
@@ -158,13 +150,13 @@ The thing is this game's **narrative is linear**, not the **dialog system**. Pat
 **another example is**: **Going from your home to your school**. even though the destination and the beginning are same but you can take multiple path to the school you can first visit a shop ot take a bus or a train. The path will be different in each case.
 
 **Another great example is** [**Detroit Become Human**](https://www.youtube.com/watch?v=m51FsEHBlwA&list=PLLBQLDFWnxtVJfjq6wrG04h0gJEguLDy2).
-<figure>
 
 [![Detroit Become Human](https://i.imgur.com/ULr4HNH.jpg)](https://www.youtube.com/watch?v=m51FsEHBlwA&list=PLLBQLDFWnxtVJfjq6wrG04h0gJEguLDy2)
 <figcaption>Fig 4. kara from Detroit become Human</figcaption>
-</figure>
 
-*(you might feel a bit conflicted as how am I comparing these two game as they are so different, Just bare with me by end of this you will have a really good picture of what i'm trying to say)*
+<br>
+
+*(you might feel a bit conflicted as Iam comparing these two game even though they are so different, Just bare with me by end of this you will have a really good picture of what i'm trying to say)*
 
 Other than the fact that both of them were trying hard to shove same philosophy(humanity and empathy) down your troat, there are quite a bit of other similarities between them.
 
@@ -181,12 +173,10 @@ It is a hub based system basically when you interact with an NPC a bunch of opti
 
 I don’t know any good example may be the [fallout 3](https://www.youtube.com/watch?v=MqR8tmHmY48)?
 
-<figure>
-
 [![fallout 3](https://i.imgur.com/647GZkQ.jpg)](https://www.youtube.com/watch?v=MqR8tmHmY48)
 <figcaption>Fig 5. Moria Brown from Fallout 3</figcaption>
 
-</figure>
+<br>
 
 The game has a lot more stuff like karma system and environmental story telling.
 
@@ -199,7 +189,6 @@ it is combination of both **Hub type** and **Waterfall type**. Like in the **Wit
 ![Witcher 3](https://i.imgur.com/gglCMbe.jpg)
 <figcaption>Fig 6. Witcher 3</figcaption>
 
-
 #### Parser-Driven
 
 There is also a machine learning based dialog system called **Parser-Driven**:
@@ -208,11 +197,9 @@ So basically it takes the written input of the player and translate it into comp
 
 **Example**: [Event [0]](https://www.youtube.com/watch?v=bCJw4hQkPj4) is kind an example *I haven’t played the game so ya..??*
 
-<figure>
-
 [![event [0]](https://i.imgur.com/ecERFvZ.jpg)](https://www.youtube.com/watch?v=bCJw4hQkPj4)
 <figcaption>Fig 7. Event[0]</figcaption>
-</figure>
+
 
 #### Other key components of a good dialog system:
 
@@ -229,11 +216,9 @@ There is no best way to code a dialog system just like a climbing system you can
 
 if you are building a really massive game then it is not a bad idea to learn C++/gd native and build your game using SQLite. A lot of indie studios develop their own tool from scratch. I think the studio that made ["Night in the Woods"](https://secretlab.games/blog/2017/11/14/how-night-in-the-woods-uses-yarn-spinner) develop their own tools to handle dialogs caller [Yarn Spinner](https://github.com/YarnSpinnerTool/YarnSpinner)
 
-<figure>
-
 [![night in the woods](https://www.theyoungfolks.com/wp-content/uploads/2017/02/Night-in-the-Woods_20170222222009.jpg)](http://www.nightinthewoods.com/)
 <figcaption>Fig 8. Night in the Woods</figcaption>
-</figure>
+
 
 #### Why I am using JSON file why not “If statements”?
 
@@ -245,11 +230,8 @@ The answer is simple:
 
 <br>
 
-<figure>
-
 ![json](https://i.imgur.com/mUPCXMU.png)
 <figcation>Fig 9. json file in vs code</figcation>
-</figure>
 
 The structure of the **JSON file** was very simple:
 This works very simply: each node can be either of the three type i.e. `Character`, `Dialog`, and `Option` Each of these nodes have their respective options or *keys if you say so*.
@@ -267,12 +249,8 @@ Just build a simple dialog parser and you are good to go:
 
 heres how my game looks like:
 
-<figure>
-
 ![image1 of my game](https://i.imgur.com/wxEPUjD.png)
-
 <figcation>Fig 10. a simple working branching dialog system:</figcation>
-</figure>
 
 So basically the first 3 option will lead to the main root option, this is because the option node contains `ID: 1` which co responds to the `dialog: 1`
 Respective dialogs are triggered and expressions/animations are visible.
@@ -386,7 +364,7 @@ Keynotes before I bid my farewell:
 1. a good dialog system is built upon a great save system
 2. Have a engaging story is as important as a good dialog system
 
-Reference and reading material:
+#### Reference and reading material:
 
 1. <https://www.youtube.com/watch?v=chf3REzAjgI>
 2. <https://www.youtube.com/watch?v=wj-2vbiyHnI>
