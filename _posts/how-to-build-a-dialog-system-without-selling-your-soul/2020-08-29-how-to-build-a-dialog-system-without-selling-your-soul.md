@@ -107,9 +107,10 @@ I will show my solution to this
 <br>
 
 <figure>
-<img src="/how-to-build-a-dialog-system-without-selling-your-soul/2e3c83261ce4a7fe7950d53443f954eb.jpg" alt="Witcher 3: The Whispering Hillock">
+<img src="https://github.com/mayank-prasoon/mayank-prasoon.github.io/blob/master/assets/blog1/2e3c83261ce4a7fe7950d53443f954eb.jpg" alt="Witcher 3: The Whispering Hillock">
 <figcaption>Fig 1. Witcher 3: The Whispering Hillock</figcaption>
 </figure>
+
 <br>
 
 In early game in the Ladies of the Wood quest line if you choose to kill the free the spirit in the [Quest: The Whispering Hillock](https://witcher.fandom.com/wiki/The_Whispering_Hillock) when Geralt return to the ladies of the wood he will find that the orphans have been eaten by the crones then a cut scene plays if you release the spirit the player the crone would not have killed the orphans but Anna will be turned into a water hag or something
@@ -353,8 +354,8 @@ Keynotes before I bid my farewell:
 
 Reference and reading material:
 
-1. https://www.youtube.com/watch?v=chf3REzAjgI
-2. https://www.youtube.com/watch?v=wj-2vbiyHnI
-3. https://www.gamasutra.com/view/feature/132116/defining_dialogue_systems.php?page=1
-4. https://www.youtube.com/watch?v=kkLqW8WhCgg&t=4s
-5. https://www.youtube.com/watch?v=Qh3U2cbH8DM
+1. <https://www.youtube.com/watch?v=chf3REzAjgI>
+2. <https://www.youtube.com/watch?v=wj-2vbiyHnI>
+3. <https://www.gamasutra.com/view/feature/132116/defining_dialogue_systems.php?page=1>
+4. <https://www.youtube.com/watch?v=kkLqW8WhCgg&t=4s>
+5. <https://www.youtube.com/watch?v=Qh3U2cbH8DM>
