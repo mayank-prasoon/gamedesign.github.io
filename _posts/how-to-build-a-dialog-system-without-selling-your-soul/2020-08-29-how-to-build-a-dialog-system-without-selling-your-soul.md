@@ -175,8 +175,7 @@ It is a hub based system basically when you interact with an NPC a bunch of opti
 
 I don’t know any good example may be the [fallout 3](https://www.youtube.com/watch?v=MqR8tmHmY48){:title="Youtube"}{:target="_blank"}?
 
-[![fallout 3](https://i.imgur.com/647GZkQ.jpg)](https://www.youtube.com/watch?v=MqR8tmHmY48)
-{:title="Youtube"}{:target="_blank"}
+[![fallout 3](https://i.imgur.com/647GZkQ.jpg)](https://www.youtube.com/watch?v=MqR8tmHmY48){:title="Youtube"}{:target="_blank"}
 <figcaption>Fig 5. Moria Brown from Fallout 3</figcaption>
 <br>
 
