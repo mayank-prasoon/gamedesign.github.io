@@ -104,8 +104,6 @@ I will show my solution to this
 
 ### I think a good example of this is Witcher 3: [(watch gamepaly)](https://www.youtube.com/watch?v=GrEX4_UVb8A)
 
-<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/GrEX4_UVb8A" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
 <br>
 
 <figure>
@@ -219,7 +217,7 @@ The answer is simple:
 
 <br>
 
-![json](godot%20dialog%20tutorial%20code.png)
+![json](https://i.imgur.com/mUPCXMU.png)
 
 The structure of the **JSON file** was very simple:
 This works very simply: each node can be either of the three type i.e. `Character`, `Dialog`, and `Option` Each of these nodes have their respective options or *keys if you say so*.
@@ -239,22 +237,21 @@ heres how my game looks like:
 
 <div style="text-align: center"> the simple working branching dialog system:-</div>
 
-![image1 of my game](godot%20dialog%20tutorial.png)
+![image1 of my game](https://i.imgur.com/wxEPUjD.png)
 
 So basically the first 3 option will lead to the main root option, this is because the option node contains `ID: 1` which co responds to the `dialog: 1`
 Respective dialogs are triggered and expressions/animations are visible.
 
 <div style="text-align: center"> conciquences:-</div>
 
-![image1 of my game](godotutorial.png)
-![image1 of my game](godot%20dialog%20tutorial%203.png)
-![image1 of my game](godot%20dialog%20tutorial%204.png)
+![image1 of my game](https://i.imgur.com/Zyc4upR.png)
+![image1 of my game](https://i.imgur.com/cZ3W3vD.png)
 
 <br>
 
 <br>
 
-![image1 of my game](Screenshot%202021-03-12%20124131.png)
+![image1 of my game](https://i.imgur.com/1h8ssSX.png)
 
 For me the `Debugger` is the `Observer` and the script at the `Dialog Manager` is the Reaction system
 
@@ -346,7 +343,7 @@ This just a flow map of how stuff works if it doesn’t make any sense it is oka
 
 >note that the flow chart map was made just before abandoning it
 
-![flowmap](game%20programing%20flowchart.png)
+![flowmap](https://i.imgur.com/Yf9ZgTj.png)
 
 Also, I'm am working on a new dialog system based on what I have learned from this tiny experiment. hope it turns out to be good.
 
