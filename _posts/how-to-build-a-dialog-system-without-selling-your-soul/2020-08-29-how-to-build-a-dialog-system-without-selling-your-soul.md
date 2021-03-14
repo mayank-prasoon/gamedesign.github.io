@@ -109,7 +109,7 @@ I will show my solution to this
 
 <br>
 
-[![Witcher 3: The Whispering Hillock](https://i.imgur.com/a6AtL8E.jpg)](https://www.youtube.com/watch?v=GrEX4_UVb8A){:title="Youtube"}{:target="_blank"}
+[![Witcher 3: The Whispering Hillock](https://i.imgur.com/a6AtL8E.jpg)](https://www.youtube.com/watch?v=GrEX4_UVb8A)
 <figcaption>Fig 1. Witcher 3: The Whispering Hillock</figcaption>
 <br>
 
@@ -139,7 +139,7 @@ it is the simplest of the branching system you go through a path and based on wh
 
 *Best example is [Walking Dead](https://www.youtube.com/watch?v=Tilvxc1LPrM&list=PLYH8WvNV1YEnMqMEIZV4F7NLC9C-J5-Si){:title="Youtube"}{:target="_blank"};*
 
-[![walking dead](https://i.imgur.com/zpsEJnP.jpg)](https://www.youtube.com/watch?v=Tilvxc1LPrM&list=PLYH8WvNV1YEnMqMEIZV4F7NLC9C-J5-Si){:title="Youtube"}{:target="_blank"}
+[![walking dead](https://i.imgur.com/zpsEJnP.jpg)](https://www.youtube.com/watch?v=Tilvxc1LPrM&list=PLYH8WvNV1YEnMqMEIZV4F7NLC9C-J5-Si)
 <figcaption>Fig 3. Walking Dead: Season 2</figcaption>
 <br>
 
@@ -153,7 +153,7 @@ The thing is this game's **narrative is linear**, not the **dialog system**. Pat
 
 **Another great example is** [Detroit Become Human](https://www.youtube.com/watch?v=m51FsEHBlwA&list=PLLBQLDFWnxtVJfjq6wrG04h0gJEguLDy2){:title="Youtube"}{:target="_blank"}.
 
-[![Detroit Become Human](https://i.imgur.com/ULr4HNH.jpg)](https://www.youtube.com/watch?v=m51FsEHBlwA&list=PLLBQLDFWnxtVJfjq6wrG04h0gJEguLDy2){:title="Youtube"}{:target="_blank"}
+[![Detroit Become Human](https://i.imgur.com/ULr4HNH.jpg)](https://www.youtube.com/watch?v=m51FsEHBlwA&list=PLLBQLDFWnxtVJfjq6wrG04h0gJEguLDy2)
 <figcaption>Fig 4. kara from Detroit become Human</figcaption>
 
 <br>
@@ -175,7 +175,7 @@ It is a hub based system basically when you interact with an NPC a bunch of opti
 
 I don’t know any good example may be the [fallout 3](https://www.youtube.com/watch?v=MqR8tmHmY48){:title="Youtube"}{:target="_blank"}?
 
-[![fallout 3](https://i.imgur.com/647GZkQ.jpg)](https://www.youtube.com/watch?v=MqR8tmHmY48){:title="Youtube"}{:target="_blank"}
+[![fallout 3](https://i.imgur.com/647GZkQ.jpg)](https://www.youtube.com/watch?v=MqR8tmHmY48)
 <figcaption>Fig 5. Moria Brown from Fallout 3</figcaption>
 <br>
 
@@ -198,7 +198,7 @@ So basically it takes the written input of the player and translate it into comp
 
 **Example**: [Event [0]](https://www.youtube.com/watch?v=bCJw4hQkPj4){:title="Youtube"}{:target="_blank"} is kind an example *I haven’t played the game so ya..??*
 
-[![event [0]](https://i.imgur.com/ecERFvZ.jpg)](https://www.youtube.com/watch?v=bCJw4hQkPj4){:title="Youtube"}{:target="_blank"}
+[![event [0]](https://i.imgur.com/ecERFvZ.jpg)](https://www.youtube.com/watch?v=bCJw4hQkPj4)
 <figcaption>Fig 7. Event[0]</figcaption>
 
 
@@ -217,7 +217,7 @@ There is no best way to code a dialog system just like a climbing system you can
 
 if you are building a really massive game then it is not a bad idea to learn C++/gd native and build your game using SQLite. A lot of indie studios develop their own tool from scratch. I think the studio that made ["Night in the Woods"](https://secretlab.games/blog/2017/11/14/how-night-in-the-woods-uses-yarn-spinner){:title="Youtube"}{:target="_blank"} develop their own tools to handle dialogs called [Yarn Spinner](https://github.com/YarnSpinnerTool/YarnSpinner){:title="Youtube"}{:target="_blank"}
 
-[![night in the woods](https://www.theyoungfolks.com/wp-content/uploads/2017/02/Night-in-the-Woods_20170222222009.jpg)](http://www.nightinthewoods.com/){:title="Youtube"}{:target="_blank"}
+[![night in the woods](https://www.theyoungfolks.com/wp-content/uploads/2017/02/Night-in-the-Woods_20170222222009.jpg)](http://www.nightinthewoods.com/)
 <figcaption>Fig 8. Night in the Woods</figcaption>
 
 
