@@ -25,7 +25,7 @@ So I thought why not share this with the community.
 	- [👍 Why you should?](#-why-you-should)
 	- [👎 Why you shouldn’t?](#-why-you-shouldnt)
 - [Well there is another important thing understanding what is a dialog system?](#well-there-is-another-important-thing-understanding-what-is-a-dialog-system)
-	- [I think a good example of this is Witcher 3: (watch gamepaly)](#i-think-a-good-example-of-this-is-witcher-3-watch-gamepaly)
+	- [I think a good example of this is Witcher 3: (watch gamepaly){:title="Youtube"}{:target="_blank"}](#i-think-a-good-example-of-this-is-witcher-3-watch-gamepalytitleyoutubetarget_blank)
 - [Now that we have dealt with why and what we should talk how we are going to make it?](#now-that-we-have-dealt-with-why-and-what-we-should-talk-how-we-are-going-to-make-it)
 	- [🎊 Now the fun part.🎊](#-now-the-fun-part)
 		- [Waterfall type](#waterfall-type)
@@ -85,7 +85,7 @@ A good dialog system contains these components: (btw I come up with few of the n
 
 basically it has to store importation about player actions. it can be as minute as a number of times a key pressed to a massive action like deletion of file or completion of quest.
 
-2. 🔥 **_Reaction system (soft-core [“nemesis system”](https://www.youtube.com/watch?v=Lm_AzK27mZY))_**: something that generates a opinion (feeling or emotions or sets of dialog) from player’s past actions, choices and possessions
+2. 🔥 **_Reaction system (soft-core [“nemesis system”](https://www.youtube.com/watch?v=Lm_AzK27mZY){:title="Youtube GMTK"}{:target="_blank"})_**: something that generates a opinion (feeling or emotions or sets of dialog) from player’s past actions, choices and possessions
 
 so basically all the data collected by the observer is processed on based on those the dialogs/events are dynamically changed
 
@@ -104,17 +104,17 @@ ts is extremely difficult to pull off something like this specially when the dia
 
 I will show my solution to this
 
-### I think a good example of this is Witcher 3: [(watch gamepaly)](https://www.youtube.com/watch?v=GrEX4_UVb8A)
+### I think a good example of this is Witcher 3: [(watch gamepaly)](https://www.youtube.com/watch?v=GrEX4_UVb8A){:title="Youtube"}{:target="_blank"}
 
 <br>
 
-[![Witcher 3: The Whispering Hillock](https://i.imgur.com/a6AtL8E.jpg)](https://www.youtube.com/watch?v=GrEX4_UVb8A)
+[![Witcher 3: The Whispering Hillock](https://i.imgur.com/a6AtL8E.jpg)](https://www.youtube.com/watch?v=GrEX4_UVb8A){:title="Youtube"}{:target="_blank"}
 <figcaption>Fig 1. Witcher 3: The Whispering Hillock</figcaption>
 <br>
 
-In early game in the Ladies of the Wood quest line if you choose to kill the free the spirit in the [Quest: The Whispering Hillock](https://witcher.fandom.com/wiki/The_Whispering_Hillock) when Geralt return to the ladies of the wood he will find that the orphans have been eaten by the crones then a cut scene plays if you release the spirit the player the crone would not have killed the orphans but Anna will be turned into a water hag or something
+In early game in the Ladies of the Wood quest line if you choose to kill the free the spirit in the [Quest: The Whispering Hillock](https://witcher.fandom.com/wiki/The_Whispering_Hillock){:title="Witcher 3 wiki"}{:target="_blank"} when Geralt return to the ladies of the wood he will find that the orphans have been eaten by the crones then a cut scene plays if you release the spirit the player the crone would not have killed the orphans but Anna will be turned into a water hag or something
 
-![working of the different components of the dialog system](https://i.imgur.com/aqVuHRu.png "right click and open it in new tab")
+![working of the different components of the dialog system](https://i.imgur.com/aqVuHRu.png)
 <figcaption>Fig 2. working of the different components of the dialog system</figcaption>
 <br>
 
@@ -136,9 +136,9 @@ it is the simplest of the branching system you go through a path and based on wh
 
 - It is best suited for a linear game.
 
-*Best example is [Walking Dead](https://www.youtube.com/watch?v=Tilvxc1LPrM&list=PLYH8WvNV1YEnMqMEIZV4F7NLC9C-J5-Si);*
+*Best example is [Walking Dead](https://www.youtube.com/watch?v=Tilvxc1LPrM&list=PLYH8WvNV1YEnMqMEIZV4F7NLC9C-J5-Si){:title="Youtube"}{:target="_blank"};*
 
-[![walking dead](https://i.imgur.com/zpsEJnP.jpg)](https://www.youtube.com/watch?v=Tilvxc1LPrM&list=PLYH8WvNV1YEnMqMEIZV4F7NLC9C-J5-Si)
+[![walking dead](https://i.imgur.com/zpsEJnP.jpg)](https://www.youtube.com/watch?v=Tilvxc1LPrM&list=PLYH8WvNV1YEnMqMEIZV4F7NLC9C-J5-Si){:title="Youtube"}{:target="_blank"}
 <figcaption>Fig 3. Walking Dead: Season 2</figcaption>
 <br>
 
@@ -150,9 +150,9 @@ The thing is this game's **narrative is linear**, not the **dialog system**. Pat
 
 **another example is**: **Going from your home to your school**. even though the destination and the beginning are same but you can take multiple path to the school you can first visit a shop ot take a bus or a train. The path will be different in each case.
 
-**Another great example is** [**Detroit Become Human**](https://www.youtube.com/watch?v=m51FsEHBlwA&list=PLLBQLDFWnxtVJfjq6wrG04h0gJEguLDy2).
+**Another great example is** [**Detroit Become Human**](https://www.youtube.com/watch?v=m51FsEHBlwA&list=PLLBQLDFWnxtVJfjq6wrG04h0gJEguLDy2){:title="Youtube"}{:target="_blank"}.
 
-[![Detroit Become Human](https://i.imgur.com/ULr4HNH.jpg)](https://www.youtube.com/watch?v=m51FsEHBlwA&list=PLLBQLDFWnxtVJfjq6wrG04h0gJEguLDy2)
+[![Detroit Become Human](https://i.imgur.com/ULr4HNH.jpg)](https://www.youtube.com/watch?v=m51FsEHBlwA&list=PLLBQLDFWnxtVJfjq6wrG04h0gJEguLDy2){:title="Youtube"}{:target="_blank"}
 <figcaption>Fig 4. kara from Detroit become Human</figcaption>
 
 <br>
@@ -172,9 +172,9 @@ It is a hub based system basically when you interact with an NPC a bunch of opti
 
 - Best suited for open world design.
 
-I don’t know any good example may be the [fallout 3](https://www.youtube.com/watch?v=MqR8tmHmY48)?
+I don’t know any good example may be the [fallout 3](https://www.youtube.com/watch?v=MqR8tmHmY48){:title="Youtube"}{:target="_blank"}?
 
-[![fallout 3](https://i.imgur.com/647GZkQ.jpg)](https://www.youtube.com/watch?v=MqR8tmHmY48)
+[![fallout 3](https://i.imgur.com/647GZkQ.jpg)](https://www.youtube.com/watch?v=MqR8tmHmY48){:title="Youtube"}{:target="_blank"}
 <figcaption>Fig 5. Moria Brown from Fallout 3</figcaption>
 
 <br>
@@ -196,9 +196,9 @@ There is also a machine learning based dialog system called **Parser-Driven**:
 
 So basically it takes the written input of the player and translate it into computer understandable instruction and return some dialog like a chat bot. It is rare but it does exists.
 
-**Example**: [Event [0]](https://www.youtube.com/watch?v=bCJw4hQkPj4) is kind an example *I haven’t played the game so ya..??*
+**Example**: [Event [0]](https://www.youtube.com/watch?v=bCJw4hQkPj4){:title="Youtube"}{:target="_blank"} is kind an example *I haven’t played the game so ya..??*
 
-[![event [0]](https://i.imgur.com/ecERFvZ.jpg)](https://www.youtube.com/watch?v=bCJw4hQkPj4)
+[![event [0]](https://i.imgur.com/ecERFvZ.jpg)](https://www.youtube.com/watch?v=bCJw4hQkPj4){:title="Youtube"}{:target="_blank"}
 <figcaption>Fig 7. Event[0]</figcaption>
 
 
@@ -215,9 +215,9 @@ So basically it takes the written input of the player and translate it into comp
 
 There is no best way to code a dialog system just like a climbing system you can come up with your own idea better than mine. Again these are just ideas.
 
-if you are building a really massive game then it is not a bad idea to learn C++/gd native and build your game using SQLite. A lot of indie studios develop their own tool from scratch. I think the studio that made ["Night in the Woods"](https://secretlab.games/blog/2017/11/14/how-night-in-the-woods-uses-yarn-spinner) develop their own tools to handle dialogs called [Yarn Spinner](https://github.com/YarnSpinnerTool/YarnSpinner)
+if you are building a really massive game then it is not a bad idea to learn C++/gd native and build your game using SQLite. A lot of indie studios develop their own tool from scratch. I think the studio that made ["Night in the Woods"](https://secretlab.games/blog/2017/11/14/how-night-in-the-woods-uses-yarn-spinner){:title="Youtube"}{:target="_blank"} develop their own tools to handle dialogs called [Yarn Spinner](https://github.com/YarnSpinnerTool/YarnSpinner){:title="Youtube"}{:target="_blank"}
 
-[![night in the woods](https://www.theyoungfolks.com/wp-content/uploads/2017/02/Night-in-the-Woods_20170222222009.jpg)](http://www.nightinthewoods.com/)
+[![night in the woods](https://www.theyoungfolks.com/wp-content/uploads/2017/02/Night-in-the-Woods_20170222222009.jpg)](http://www.nightinthewoods.com/){:title="Youtube"}{:target="_blank"}
 <figcaption>Fig 8. Night in the Woods</figcaption>
 
 
@@ -289,7 +289,7 @@ func load_character():
 
 dialog index is just the number of dialogs in the list to show before showing the options. `text_diaplay_rate_logic()` is just the speed of dialog by which it will show up on the screen in simple `tween` animation. (didn't work well for me)
 
-[this part of the code was borrowed from [Emilio](https://www.youtube.com/channel/UC9DR22-qohBDtZ74R3FxOZg)]
+[this part of the code was borrowed from [Emilio](https://www.youtube.com/channel/UC9DR22-qohBDtZ74R3FxOZg){:title="Youtube"}{:target="_blank"}]
 
 ```gd
 func load_dialogue():
@@ -367,8 +367,8 @@ Keynotes before I bid my farewell:
 
 #### Reference and reading material:
 
-1. <https://www.youtube.com/watch?v=chf3REzAjgI>
-2. <https://www.youtube.com/watch?v=wj-2vbiyHnI>
-3. <https://www.gamasutra.com/view/feature/132116/defining_dialogue_systems.php?page=1>
-4. <https://www.youtube.com/watch?v=kkLqW8WhCgg&t=4s>
-5. <https://www.youtube.com/watch?v=Qh3U2cbH8DM>
+1. <https://www.youtube.com/watch?v=chf3REzAjgI>{:title="Youtube"}{:target="_blank"}
+2. <https://www.youtube.com/watch?v=wj-2vbiyHnI>{:title="Youtube"}{:target="_blank"}
+3. <https://www.gamasutra.com/view/feature/132116/defining_dialogue_systems.php?page=1>{:title="Youtube"}{:target="_blank"}
+4. <https://www.youtube.com/watch?v=kkLqW8WhCgg&t=4s>{:title="Youtube"}{:target="_blank"}
+5. <https://www.youtube.com/watch?v=Qh3U2cbH8DM>{:title="Youtube"}{:target="_blank"}
