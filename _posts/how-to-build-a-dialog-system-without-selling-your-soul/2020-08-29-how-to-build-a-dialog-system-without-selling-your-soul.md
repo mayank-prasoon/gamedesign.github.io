@@ -106,7 +106,6 @@ I will show my solution to this
 
 ### I think a good example of this is Witcher 3:
 [(watch gamepaly)](https://www.youtube.com/watch?v=GrEX4_UVb8A){:title="Youtube"}{:target="_blank"}
-<br>
 
 [![Witcher 3: The Whispering Hillock](https://i.imgur.com/a6AtL8E.jpg)](https://www.youtube.com/watch?v=GrEX4_UVb8A)
 <figcaption>Fig 1. Witcher 3: The Whispering Hillock</figcaption>
