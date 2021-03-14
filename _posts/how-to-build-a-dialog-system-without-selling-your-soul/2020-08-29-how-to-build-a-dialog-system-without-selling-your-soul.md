@@ -107,8 +107,8 @@ I will show my solution to this
 <br>
 
 <figure>
-	<img src="/how-to-build-a-dialog-system-without-selling-your-soul/2e3c83261ce4a7fe7950d53443f954eb.jpg" alt="Witcher 3: The Whispering Hillock">
-	<figcaption>Fig 1. Gambaran ribetnya.</figcaption>
+<img src="/how-to-build-a-dialog-system-without-selling-your-soul/2e3c83261ce4a7fe7950d53443f954eb.jpg" alt="Witcher 3: The Whispering Hillock">
+<figcaption>Fig 1. Witcher 3: The Whispering Hillock</figcaption>
 </figure>
 
 In early game in the Ladies of the Wood quest line if you choose to kill the free the spirit in the [Quest: The Whispering Hillock](https://witcher.fandom.com/wiki/The_Whispering_Hillock) when Geralt return to the ladies of the wood he will find that the orphans have been eaten by the crones then a cut scene plays if you release the spirit the player the crone would not have killed the orphans but Anna will be turned into a water hag or something
