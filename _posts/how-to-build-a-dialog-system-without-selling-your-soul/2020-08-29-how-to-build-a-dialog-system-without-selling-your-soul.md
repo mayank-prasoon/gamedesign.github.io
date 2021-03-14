@@ -231,7 +231,7 @@ The answer is simple:
 <br>
 
 ![json](https://i.imgur.com/mUPCXMU.png)
-<figcation>Fig 9. json file in vs code</figcation>
+<figcaption>Fig 9. JSON file in vscode</figcaption>
 
 The structure of the **JSON file** was very simple:
 This works very simply: each node can be either of the three type i.e. `Character`, `Dialog`, and `Option` Each of these nodes have their respective options or *keys if you say so*.
@@ -250,7 +250,7 @@ Just build a simple dialog parser and you are good to go:
 heres how my game looks like:
 
 ![image1 of my game](https://i.imgur.com/wxEPUjD.png)
-<figcation>Fig 10. a simple working branching dialog system:</figcation>
+<figcaption>Fig 10. a simple working branching dialog system</figcaption>
 
 So basically the first 3 option will lead to the main root option, this is because the option node contains `ID: 1` which co responds to the `dialog: 1`
 Respective dialogs are triggered and expressions/animations are visible.
