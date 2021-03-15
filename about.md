@@ -1,14 +1,13 @@
 ---
 title: About
-permalink: /about/
+permalink: "/about/"
 layout: page
-excerpt:
-  I am passionate game developer and I am specialized in Godot and Python.
+excerpt: I am passionate game developer and I am specialized in Godot and Python.
   This site is my collection of notes and design ideas that i have learned.
 comments: false
 ---
 
-He's a student from India, living in Jharkhand. the blog for documentation about his programming 🎒 journey, he loves game development and art,.
+He's a student from India, living in Jharkhand. The blog is for documenting about his programming 🎒 journey, He loves game development and art.
 
 If you have a question about him or else, just send a letter to him or you can discuss it [here](https://github.com/mayank-prasoon/mayank-prasoon.github.io/discussions).
 

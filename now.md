@@ -1,9 +1,9 @@
 ---
 title: About
-permalink: /now/
+permalink: "/now/"
 layout: page
-excerpt: This is the collection of my on going projects that I'm working on.
-  These are from concepts to complete games.
+excerpt: This is the collection of my on going projects that I'm working on. These
+  are from concepts to complete games.
 comments: false
 ---
 
@@ -12,7 +12,7 @@ These are from concepts to complete games.
 
 <hr>
 
-| name                       | state | release | beta available | alfa available |
+| name                       | state | release | beta available | alpha available |
 |----------------------------|-------|---------|----------------|----------------|
 | project lake               | 🔸    | non     | non            | non            |
 | poker game                 | 🌲    | non     | non            | non            |
