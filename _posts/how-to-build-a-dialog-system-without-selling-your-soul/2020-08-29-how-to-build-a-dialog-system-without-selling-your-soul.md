@@ -163,8 +163,6 @@ Other than the fact that both of them were trying hard to shove same philosophy(
 - Both of the game had linear gameplay even though the narrative was branching.
 - both of them fall under the interactive media category rather than a game (a pseudo-game to be honest)
 
-so if you remember our last example lets spice it a bit. if on the way to your school it started raining and you didn't reached the school
-
 #### Hub Type
 
 It is a hub based system basically when you interact with an NPC a bunch of options will be given with a set dialogs once the dialogs are exhausted you will return back to the main option menu.
@@ -229,7 +227,7 @@ The answer is simple:
 
 <br>
 
-![json](https://i.imgur.com/mUPCXMU.png)
+[![json](https://i.imgur.com/mUPCXMU.png)](https://i.imgur.com/mUPCXMU.png)
 <figcaption>Fig 9. JSON file in vscode</figcaption>
 
 The structure of the **JSON file** was very simple:
@@ -354,7 +352,7 @@ This just a flow map of how stuff works if it doesn’t make any sense it is oka
 
 >note that the flow chart map was made just before abandoning it
 
-![flowmap](https://i.imgur.com/Yf9ZgTj.png)
+[![flowmap](https://i.imgur.com/Yf9ZgTj.png)](https://i.imgur.com/Yf9ZgTj.png)
 
 Also, I'm am working on a new dialog system based on what I have learned from this tiny experiment. hope it turns out to be good.
 
