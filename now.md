@@ -18,6 +18,7 @@ These are from concepts to complete games.
 | poker game                 | 🔻    | non     | non            | non            |
 | Lodo game                  | 🔻    | non     | non            | non            |
 | python based dialog system | 🌲    | non     | non            | non            |
+| non-distractive save system | 🌲    | non     | non            | non            |
 
 <br>
 
