@@ -65,7 +65,7 @@ The answer is simple:
 
 There are quite a lot:
 
-- Dialog system requires a lot a works (bulling assets, writing dialogs etc.)
+- Dialog system requires a lot a works (building assets, writing dialogs etc.)
 - If not done will it is just annoying
 - It get super confusing super-fast
 - Usually making a sequel is nearly impossible only hard reboot can be done.
@@ -79,7 +79,7 @@ This is a really good answer but not very help full. In real life _(I hope every
 
 🌟 We first build an opinion about a person based on our **past experiences** and **observation**, so based on those **opinion** we either **respond to a conversation** or **start a new one** or **never talk again**. You now have clear picture of what a dialog system should look like. **Let’s elaborate**
 
-A good dialog system contains these components: (btw I come up with few of the names so it may sound stupid) discussed in more detail [here](#components-dialog-system)
+A good dialog system contains these components: (btw I come up with few of the names so it may sound stupid)
 
 1. 🕵️ **_Observer_** : Something that tracks the actions, choices and possessions of player (long term memory )like a hybrid “Save” system.
 
@@ -100,12 +100,12 @@ _[I know that bark mechanic means NPC shouting in the background but I have read
 for example: you have killed `[x number of monsters]` you disserve this this sword.
 
 where `[x number of monsters]` will get replaced with the actual number of the monster.
-ts is extremely difficult to pull off something like this specially when the dialog are extremely complex.
+it is extremely difficult to pull off something like this specially when the dialog are extremely complex.
 
 I will show my solution to this
 
 ### I think a good example of this is Witcher 3:
-[(watch gamepaly)](https://www.youtube.com/watch?v=GrEX4_UVb8A){:title="Youtube"}{:target="_blank"}
+[(watch gameplay)](https://www.youtube.com/watch?v=GrEX4_UVb8A){:title="Youtube"}{:target="_blank"}
 
 [![Witcher 3: The Whispering Hillock](https://i.imgur.com/a6AtL8E.jpg)](https://www.youtube.com/watch?v=GrEX4_UVb8A)
 <figcaption>Fig 1. Witcher 3: The Whispering Hillock</figcaption>
@@ -141,13 +141,13 @@ it is the simplest of the branching system you go through a path and based on wh
 <figcaption>Fig 3. Walking Dead: Season 2</figcaption>
 <br>
 
-I think almost every own knows that your choices in the game doesn't matter. So this should be a really bad example yet i put it as a best example.
+I think almost every one knows that your choices in the game doesn't matter. So this should be a really bad example yet I put it as a best example.
 
 *Before you pull out your pitch forks let me clarify my point.*
 
-The thing is this game's **narrative is linear**, not the **dialog system**. Path leads to an different consequences it's just that the beginning and the end are same.
+The thing is this game's **narrative is linear**, not the **dialog system**. Path leads to different consequences it's just that the beginning and the end are same.
 
-**another example is**: **Going from your home to your school**. even though the destination and the beginning are same but you can take multiple path to the school you can first visit a shop ot take a bus or a train. The path will be different in each case.
+**another example is**: **Going from your home to your school**. even though the destination and the beginning are same. But you can take multiple path to the school, you can first visit a shop or take a bus or a train. The path will be different in each case yet the out come same.
 
 **Another great example is** [Detroit Become Human](https://www.youtube.com/watch?v=m51FsEHBlwA&list=PLLBQLDFWnxtVJfjq6wrG04h0gJEguLDy2){:title="Youtube"}{:target="_blank"}.
 
@@ -158,10 +158,10 @@ The thing is this game's **narrative is linear**, not the **dialog system**. Pat
 
 *(you might feel a bit conflicted as Iam comparing these two game even though they are so different, Just bare with me by end of this you will have a really good picture of what i'm trying to say)*
 
-Other than the fact that both of them were trying hard to shove same philosophy(humanity and empathy) down your troat, there are quite a bit of other similarities between them.
+Other than the fact that both of them were trying hard to shove same philosophy (humanity and empathy) down your throat, there are quite a bit of other similarities between them.
 
 - Both of the game had linear gameplay even though the narrative was branching.
-- both of them fall under the interactive media category rather than a game (a pseudo-game to be honest)
+- both of them fall under the interactive media category rather than an actual game (a pseudo-game to be honest)
 
 #### Hub Type
 
@@ -192,7 +192,7 @@ There is also a machine learning based dialog system called **Parser-Driven**:
 
 So basically it takes the written input of the player and translate it into computer understandable instruction and return some dialog like a chat bot. It is rare but it does exists.
 
-**Example**: [Event [0]](https://www.youtube.com/watch?v=bCJw4hQkPj4){:title="Youtube"}{:target="_blank"} is kind an example *I haven’t played the game so ya..??*
+**Example**: [Event [0]](https://www.youtube.com/watch?v=bCJw4hQkPj4){:title="Youtube"}{:target="_blank"} is kind an example, *I haven’t played the game so ya..??*
 
 [![event [0]](https://i.imgur.com/ecERFvZ.jpg)](https://www.youtube.com/watch?v=bCJw4hQkPj4)
 <figcaption>Fig 7. Event[0]</figcaption>
@@ -209,7 +209,7 @@ So basically it takes the written input of the player and translate it into comp
 
 ### Building your own tool?
 
-There is no best way to code a dialog system just like a climbing system you can come up with your own idea better than mine. Again these are just ideas.
+There is no best way to code a dialog system, just like a climbing system you can come up with your own idea better than mine. Again these are just ideas.
 
 if you are building a really massive game then it is not a bad idea to learn C++/gd native and build your game using SQLite. A lot of indie studios develop their own tool from scratch. I think the studio that made ["Night in the Woods"](https://secretlab.games/blog/2017/11/14/how-night-in-the-woods-uses-yarn-spinner){:title="Youtube"}{:target="_blank"} develop their own tools to handle dialogs called [Yarn Spinner](https://github.com/YarnSpinnerTool/YarnSpinner){:title="Youtube"}{:target="_blank"}
 
@@ -223,7 +223,7 @@ The answer is simple:
 
 - You can share JSON file with your team.
 - You can switch engines without fear of losing data
-- You can build external software for your writer or you self to quickly write a story and import it into the game.
+- You can build external software for your writer or yourself to quickly write a story and import it into the game.
 
 <br>
 
@@ -231,7 +231,7 @@ The answer is simple:
 <figcaption>Fig 9. JSON file in vscode</figcaption>
 
 The structure of the **JSON file** was very simple:
-This works very simply: each node can be either of the three type i.e. `Character`, `Dialog`, and `Option` Each of these nodes have their respective options or *keys if you say so*.
+This works very simply: each node can be either of the three type i.e. `Character`, `Dialog`, and `Option` Each of these nodes have their respective options or *`keys` if you say so*.
 
 #### Like the dialog node has
 
@@ -252,13 +252,9 @@ heres how my game looks like:
 So basically the first 3 option will lead to the main root option, this is because the option node contains `ID: 1` which co responds to the `dialog: 1`
 Respective dialogs are triggered and expressions/animations are visible.
 
-
 ![image1 of my game](https://i.imgur.com/Zyc4upR.png)
+
 ![image1 of my game](https://i.imgur.com/cZ3W3vD.png)
-
-<br>
-
-<br>
 
 ![image1 of my game](https://i.imgur.com/1h8ssSX.png)
 
@@ -283,7 +279,7 @@ func load_character():
 
 ### load dialogs:
 
-dialog index is just the number of dialogs in the list to show before showing the options. `text_diaplay_rate_logic()` is just the speed of dialog by which it will show up on the screen in simple `tween` animation. (didn't work well for me)
+Dialog index is just the number of dialogs in the list to show before showing the options. `text_diaplay_rate_logic()` is just the speed of dialog by which it will show up on the screen in simple `tween` animation. (didn't work well for me)
 
 [this part of the code was borrowed from [Emilio](https://www.youtube.com/channel/UC9DR22-qohBDtZ74R3FxOZg){:title="Youtube"}{:target="_blank"}]
 
@@ -305,7 +301,7 @@ func load_dialogue():
 ```
 ### load choices:
 
-this basically load the choices, `option_ID` is the `ID` of the next option branch (`y`) using a simple for loop I add options to the dialog
+This basically load the choices, `option_ID` is the `ID` of the next option branch (`y`) using a simple for loop I add options to the dialog
 
 ```gd
 func load_choices():
@@ -322,7 +318,7 @@ func load_choices():
 
 ### show choices:
 
-this basically makes sure that the options are only visible after the dialog is complete and any button(buttons[key]) that doesn't have a choice get removed(not visible)
+This basically makes sure that the options are only visible after the dialog is complete and any button(buttons[key]) that doesn't have a choice get removed(not visible)
 
 ```gd
 func show_choices():
@@ -348,13 +344,12 @@ func show_choices():
 ```
 ### Flowmap
 
-This just a flow map of how stuff works if it doesn’t make any sense it is okay, as it doesn’t have. I think you have a good understanding of how the thing works and you can build your own tools and make a good dialog system.
+This just a flow map of how stuff works. If it doesn’t make any sense it is okay, as it doesn’t have. I think you have a good understanding of how the thing works and you can build your own tools and make a good dialog system.
 
 >note that the flow chart map was made just before abandoning it
-
 [![flowmap](https://i.imgur.com/Yf9ZgTj.png)](https://i.imgur.com/Yf9ZgTj.png)
 
-Also, I'm am working on a new dialog system based on what I have learned from this tiny experiment. hope it turns out to be good.
+Also, I'm am working on a new dialog system based on what I have learned from this tiny experiment. hope it turns out good.
 
 Keynotes before I bid my farewell:
 

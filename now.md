@@ -15,8 +15,8 @@ These are from concepts to complete games.
 | name                       | state | release | beta available | alpha available |
 |----------------------------|-------|---------|----------------|----------------|
 | project lake               | 🔸    | non     | non            | non            |
-| poker game                 | 🌲    | non     | non            | non            |
-| Lodo game                  | 🌲    | non     | non            | non            |
+| poker game                 | 🔻    | non     | non            | non            |
+| Lodo game                  | 🔻    | non     | non            | non            |
 | python based dialog system | 🌲    | non     | non            | non            |
 
 <br>
@@ -25,6 +25,7 @@ These are from concepts to complete games.
 - 🔸 stall
 - 🌲 work in progress
 - ⭐ completed
+- 🔻 abounded
 
 <hr>
 

@@ -91,3 +91,4 @@ plugins:
   - jekyll-sitemap
   - jekyll-postfiles
   - jekyll-admin
+  - jekyll-seo-tag
