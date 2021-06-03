@@ -411,9 +411,9 @@ func load_save() -> void:
 The game can be used to store the item inventory.
 The game will now be able to store which NPC give the item and properly labeled.
 
-## Distructive vs Layering
+## duplication vs Layering
 
-| Distructive                                                                                           | Layering                                                                                                                                      |
+| duplication                                                                                           | Layering                                                                                                                                      |
 | ------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------- |
 | How the way the data is stored, (*multiple save files*) only one data of each type is loaded at a time | Since there is only one save file, all the save data of every type of data is loaded at a time                                                |
 | The save file are independent to each other                                                           | The save data are related to each other                                                                                                       |
