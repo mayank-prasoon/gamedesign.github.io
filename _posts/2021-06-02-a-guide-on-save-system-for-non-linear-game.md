@@ -173,11 +173,11 @@ In duplication method, a copy of the save file is save in the hard drive. Thus, 
 ##### Minecraft
 
 ![Base Profile Screenshot 2021.05.19 - 18.09.02.63](https://i.imgur.com/7QqTDlD.png)
-Minecraft is a snadbox game made by Notch and currently owned by Microsoft.
+Minecraft is a sandbox game made by Notch and currently owned by Microsoft.
 
 You can make backup of your world manually and save them and when ever feel like going back you can do that very easily. This looks very complicated, but it is the only example that I was able to find.
 
-This is done manualy. But still, it's great way to make a low effort save system which is non-destructive in nature.
+This is done manually. But still, it's great way to make a low effort save system which is non-destructive in nature.
 
 ##### Witcher 3
 
@@ -206,11 +206,11 @@ I know all these sounds like technical jargon. But hear me out, in the end every
 
 #### Lets understand it with a bit of code
 
-I wrote this in typed GDscript. In this example I'm tring to store the position data of the player the code will record each and every position is possible.
+I wrote this in typed GDscript. In this example I'm trying to store the position data of the player the code will record each and every position is possible.
 
 **Important values and Variables**
 
-> The snapshot is array just of the sake of simplsity in the acutual game it will have its own seprate file and contain other info like the date, time, short description, image file location (for the screenshot), a color id, in a dictionary.
+> The snapshot is array just of the sake of simplicity in the actual game it will have its own septate file and contain other info like the date, time, short description, image file location (for the screenshot), a color id, in a dictionary.
 
 So here I am just going to store the position but you can store anything item, attack power or a chain of dialog and choices.
 
