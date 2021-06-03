@@ -1,7 +1,7 @@
 ---
 title: How to build a dialog system without selling your soul
 layout: post
-date: 2020-01-29 01:00 +0700
+date: '2021-01-28 23:30:00'
 description: tutorial on how to build a dialog system.
 tag:
 - tutorial
