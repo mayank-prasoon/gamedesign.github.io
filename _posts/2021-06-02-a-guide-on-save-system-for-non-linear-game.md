@@ -20,10 +20,6 @@ For the github repo [click here](https://github.com/mayank-prasoon/save-system-t
 
 Lets get started.
 
-This is a audio version of this blog
-
-<iframe width="100%" height="300" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/1061148178&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe><div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"><a href="https://soundcloud.com/mayank-prasoon-gamedev" title="Mayank Prasoon" target="_blank" style="color: #cccccc; text-decoration: none;">Mayank Prasoon</a> · <a href="https://soundcloud.com/mayank-prasoon-gamedev/how-to-build-a-save-system-for-non-linear-game" title="how to build a save system for non linear game" target="_blank" style="color: #cccccc; text-decoration: none;">how to build a save system for non linear game</a></div>
-
 To understand my point lets look at the problems given below.
 
 # Problems
