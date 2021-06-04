@@ -22,6 +22,31 @@ Lets get started.
 
 To understand my point lets look at the problems given below.
 
+- [Problems](#problems)
+  - [Notable Example](#notable-example)
+    - [Root cause](#root-cause)
+- [Solution](#solution)
+    - [What is a save system?](#what-is-a-save-system)
+    - [Destructive vs Non-Destructive](#destructive-vs-non-destructive)
+    - [Why we need a System like this?](#why-we-need-a-system-like-this)
+  - [Examples](#examples)
+    - [Zelda Breath of the Wild](#zelda-breath-of-the-wild)
+    - [Witcher 3](#witcher-3)
+  - [How can we make a Save System](#how-can-we-make-a-save-system)
+    - [I have come across a few different method of saving data](#i-have-come-across-a-few-different-method-of-saving-data)
+    - [Duplication Method](#duplication-method)
+    - [Advantages ⬆️](#advantages-️)
+    - [Disadvantages ⬇️](#disadvantages-️)
+      - [Real world Example](#real-world-example)
+        - [Minecraft](#minecraft)
+        - [Witcher 3](#witcher-3-1)
+    - [Layering Method](#layering-method)
+      - [Lets understand it with a bit of code](#lets-understand-it-with-a-bit-of-code)
+      - [Advantages ⬆️](#advantages-️-1)
+      - [Disadvantages ⬇️](#disadvantages-️-1)
+    - [Practical Application](#practical-application)
+  - [duplication vs Layering](#duplication-vs-layering)
+
 # Problems
 
 - **case 01** - The player gets stuck and can't get out of a place.
